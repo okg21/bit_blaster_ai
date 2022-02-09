@@ -1,14 +1,11 @@
 
-import random
 import time
 
 from getkeys import key_check
-import pydirectinput
 import keyboard
 import time
 import cv2
 from windowcapture import WindowCapture
-from direct_keys import PressKey, ReleaseKey, W, D, A
 from fastai.vision.all import *
 import pathlib
 
